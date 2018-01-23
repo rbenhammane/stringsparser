@@ -1,0 +1,13 @@
+
+app:
+  api:
+    title: Simple Strings App
+    description: Application that search for quotes
+    version: 0.1
+    termofserviceurl: http://term.of.service.com
+    contact:
+      name: Rida Benhammane
+      url: http://rbenhammane.com
+      email: rbenhammane@abs.ma
+    license: Upwork License
+    licenseurl: http://license.com
